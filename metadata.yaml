@@ -1,0 +1,26 @@
+_repo: Les-derniers-Hommes-Rouges_67281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maël, Pierre
+    gutenberg_agent_id: '54195'
+    url: http://www.gutenberg.org/2009/agents/54195
+description: ''
+gutenberg_issued: '2022-01-30'
+identifiers:
+  gutenberg: '67281'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k111702m
+pgterms:marc905: 20091212064330mal
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Firmin-Didot,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les derniers Hommes Rouges
+url: http://www.gutenberg.org/ebooks/67281
